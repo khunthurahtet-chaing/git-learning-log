@@ -1,6 +1,6 @@
 # Conflict Practice
 
-<<<<<<< HEAD
+
 ## My Workflow Preferences
 
 - I prefer rebasing feature branches for a clean linear history
@@ -20,4 +20,6 @@
 - Git stash is a lifesaver for context switching
 - I use interactive rebase to polish commits before opening a PR
 
+
 # Conflict Practice Notes
+- Git stash is a lifesaver for context switching
